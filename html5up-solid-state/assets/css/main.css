@@ -2740,7 +2740,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: #20222c;
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3331,7 +3331,7 @@
 		}
 
 		.wrapper .inner {
-			padding: 3em 0 1em 0 ;
+			padding: 0em 0 0em 0 ;
 			margin: 0 auto;
 			width: 55em;
 		}
@@ -3377,11 +3377,11 @@
 			}
 
 		.wrapper.spotlight {
-			background-color: #4c5c96;
+			background-color: #565b76;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234c5c96%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23565b76%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.spotlight .inner {
@@ -3430,11 +3430,11 @@
 			}
 
 			.wrapper.spotlight.style2 {
-				background-color: #45558d;
+				background-color: #404459;
 			}
 
 				.wrapper.spotlight.style2:before, .wrapper.spotlight.style2:after {
-					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2345558d%3B' /%3E%3C/svg%3E");
+					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23404459%3B' /%3E%3C/svg%3E");
 				}
 
 			.wrapper.spotlight.style3 {
@@ -3489,7 +3489,7 @@
 				}
 
 				.wrapper .inner {
-					padding: 3em 3em 1em 3em ;
+					padding: 0em 3em 0em 3em ;
 					width: 100%;
 				}
 
@@ -3524,7 +3524,7 @@
 				}
 
 				.wrapper .inner {
-					padding: 2em 2em 0.1em 2em ;
+					padding: 0em 2em 0.1em 2em ;
 				}
 
 				.wrapper.spotlight .inner {
@@ -3562,7 +3562,7 @@
 		@media screen and (max-width: 360px) {
 
 			.wrapper .inner {
-				padding: 2em 1.5em 0.1em 1.5em ;
+				padding: 0em 1.5em 0.1em 1.5em ;
 			}
 
 		}
